@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../zBackend"
+		},
+		{
+			"path": "../../zfrontend/Notes"
+		},
+		{
+			"path": "../../React.js"
+		},
+		{
+			"path": "../../zLearn"
+		}
+	],
+	"settings": {}
+}
